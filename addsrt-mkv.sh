@@ -1,0 +1,1 @@
+ffmpeg -loop 1 -i black.jpg -i audio.mp3 -i audio.srt -shortest audio.mkv
